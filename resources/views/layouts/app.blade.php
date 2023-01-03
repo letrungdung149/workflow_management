@@ -454,14 +454,6 @@
 								</span>
                         </a>
                     </li>
-                    <li class="nav-item">
-                        <a href="#" class="nav-link">
-                            <i class="icon-design"></i>
-                            <span>
-									Report
-								</span>
-                        </a>
-                    </li>
                     <!-- /main -->
                 </ul>
             </div>
